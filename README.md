@@ -11,7 +11,7 @@ Reproducibility package accompanying the *J. Chem. Theory Comput.* (JCTC) articl
 > **This GitHub repository holds the code only.** The datasets generated in this
 > work (SIESTA-PBE halide-perovskite energies, carbon percolation clusters) and the
 > pre-computed feature caches are large (200+ MB, one file >100 MB) and are archived
-> together with this code on **Zenodo: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)**
+> together with this code on **Zenodo: [10.5281/zenodo.21228177](https://doi.org/10.5281/zenodo.21228177)**
 > (v1.1.0). Download the Zenodo bundle to reproduce every table and figure.
 
 This repository contains the **code** (OCE feature-construction library and the
