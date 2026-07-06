@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the accompanying article and this deposit."
+title: "OCE-Wave1: Orbital Cluster Expansion with geometric cutoff features and active learning"
+version: 1.1.0
+date-released: 2026-07-06
+license: MIT
+authors:
+  - family-names: Azevedo
+    given-names: D. L.
+    orcid: "https://orcid.org/0000-0002-3456-554X"
+    affiliation: "Institute of Physics, University of Brasília (UnB)"
+# The Zenodo concept DOI is minted on upload — paste it here once assigned:
+# doi: 10.5281/zenodo.XXXXXXX
+repository-code: "https://github.com/david888azv/OCE-Wave1"
+preferred-citation:
+  type: article
+  title: "Geometric Cutoff Features and Active Learning Extend Orbital Cluster Expansions Across Halide Perovskites, Metal-Organic Frameworks, Two-Dimensional Carbon Allotropes, and Biomolecular Conformers"
+  authors:
+    - family-names: Azevedo
+      given-names: D. L.
+      orcid: "https://orcid.org/0000-0002-3456-554X"
+  journal: "Journal of Chemical Theory and Computation"
+  year: 2026
+references:
+  - type: article
+    title: "Sparse Linear Surrogates Match Neural Network Potentials on the SPICE Biomolecular Benchmark with Three Orders of Magnitude Smaller Training Sets"
+    authors:
+      - family-names: Azevedo
+        given-names: D. L.
+    journal: "The Journal of Physical Chemistry Letters"
+    year: 2026
+    doi: 10.1021/acs.jpclett.6c01491
